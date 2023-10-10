@@ -7,6 +7,7 @@ A Basic flutter projects that makes an API call using riverpod and covered with 
 - [Clone the branch tests-implemented]
 - [rename .sample.env to .env and paste your API KEY](https://www.welltested.ai/)
 - [run flutter pub get]
+- [run dart pub global activate welltested]
 - [run welltested generate unit]
 - [run your tests!]
 
