@@ -1,16 +1,12 @@
-# api_with_riverpod
+# api_with_riverpod_with_tests
 
-A new Flutter project.
+A Basic flutter projects that makes an API call using riverpod and covered with AI generated unit tests by welltested.ai
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- [Clone the branch tests-implemented]
+- [rename .sample.env to .env and paste your API KEY](https://www.welltested.ai/)
+- [run flutter pub get]
+- [run welltested generate unit]
+- [run your tests!]
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
